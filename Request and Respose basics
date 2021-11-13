@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Requests , Response and Methods
 
@@ -322,8 +322,3 @@ cookie  without same side  attribues : when the cookie does not have same side a
 
 8) secure : cookie is only sent when the server requests with https only .
 9) same site : controls wether a cooke is sent with cross site request  . a mitigation for csrf
-
-
-
-
-
